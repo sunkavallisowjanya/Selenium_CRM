@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="190496" started-at="2020-08-29T18:41:19 IST" finished-at="2020-08-29T18:44:30 IST">
+    <groups>
+    </groups>
+    <test name="Test_Parallel" duration-ms="190496" started-at="2020-08-29T18:41:19 IST" finished-at="2020-08-29T18:44:30 IST">
+      <class name="CRM.activity1">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:CRM.activity1@57855c9a]" name="beforeMethod" is-config="true" duration-ms="14899" started-at="2020-08-29T18:41:19 IST" finished-at="2020-08-29T18:41:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="act1()[pri:0, instance:CRM.activity1@57855c9a]" name="act1" duration-ms="10" started-at="2020-08-29T18:41:34 IST" finished-at="2020-08-29T18:41:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- act1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:CRM.activity1@57855c9a]" name="afterMethod" is-config="true" duration-ms="1316" started-at="2020-08-29T18:41:34 IST" finished-at="2020-08-29T18:41:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- CRM.activity1 -->
+      <class name="CRM.activity2">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:CRM.activity2@3b084709]" name="beforeMethod" is-config="true" duration-ms="12250" started-at="2020-08-29T18:41:35 IST" finished-at="2020-08-29T18:41:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="act2()[pri:0, instance:CRM.activity2@3b084709]" name="act2" duration-ms="42" started-at="2020-08-29T18:41:48 IST" finished-at="2020-08-29T18:41:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- act2 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:CRM.activity2@3b084709]" name="afterMethod" is-config="true" duration-ms="1264" started-at="2020-08-29T18:41:48 IST" finished-at="2020-08-29T18:41:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- CRM.activity2 -->
+      <class name="CRM.activity3">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:CRM.activity3@3224f60b]" name="beforeMethod" is-config="true" duration-ms="13049" started-at="2020-08-29T18:41:49 IST" finished-at="2020-08-29T18:42:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="act3()[pri:0, instance:CRM.activity3@3224f60b]" name="act3" duration-ms="34" started-at="2020-08-29T18:42:02 IST" finished-at="2020-08-29T18:42:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- act3 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:CRM.activity3@3224f60b]" name="afterMethod" is-config="true" duration-ms="1400" started-at="2020-08-29T18:42:02 IST" finished-at="2020-08-29T18:42:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- CRM.activity3 -->
+      <class name="CRM.activity4">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:CRM.activity4@63e2203c]" name="beforeMethod" is-config="true" duration-ms="13421" started-at="2020-08-29T18:42:03 IST" finished-at="2020-08-29T18:42:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="act4()[pri:0, instance:CRM.activity4@63e2203c]" name="act4" duration-ms="13645" started-at="2020-08-29T18:42:17 IST" finished-at="2020-08-29T18:42:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- act4 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:CRM.activity4@63e2203c]" name="afterMethod" is-config="true" duration-ms="1306" started-at="2020-08-29T18:42:30 IST" finished-at="2020-08-29T18:42:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- CRM.activity4 -->
+      <class name="CRM.activity5">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:CRM.activity5@1efed156]" name="beforeMethod" is-config="true" duration-ms="19851" started-at="2020-08-29T18:42:32 IST" finished-at="2020-08-29T18:42:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="act5()[pri:0, instance:CRM.activity5@1efed156]" name="act5" duration-ms="21" started-at="2020-08-29T18:42:52 IST" finished-at="2020-08-29T18:42:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- act5 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:CRM.activity5@1efed156]" name="afterMethod" is-config="true" duration-ms="1527" started-at="2020-08-29T18:42:52 IST" finished-at="2020-08-29T18:42:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- CRM.activity5 -->
+      <class name="CRM.activity6">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:CRM.activity6@6737fd8f]" name="beforeMethod" is-config="true" duration-ms="18529" started-at="2020-08-29T18:42:53 IST" finished-at="2020-08-29T18:43:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="act6()[pri:0, instance:CRM.activity6@6737fd8f]" name="act6" duration-ms="40" started-at="2020-08-29T18:43:12 IST" finished-at="2020-08-29T18:43:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- act6 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:CRM.activity6@6737fd8f]" name="afterMethod" is-config="true" duration-ms="1427" started-at="2020-08-29T18:43:12 IST" finished-at="2020-08-29T18:43:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- CRM.activity6 -->
+      <class name="CRM.activity7">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:CRM.activity7@72b6cbcc]" name="beforeMethod" is-config="true" duration-ms="17445" started-at="2020-08-29T18:43:13 IST" finished-at="2020-08-29T18:43:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="act7()[pri:0, instance:CRM.activity7@72b6cbcc]" name="act7" duration-ms="11278" started-at="2020-08-29T18:43:31 IST" finished-at="2020-08-29T18:43:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- act7 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:CRM.activity7@72b6cbcc]" name="afterMethod" is-config="true" duration-ms="1383" started-at="2020-08-29T18:43:42 IST" finished-at="2020-08-29T18:43:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- CRM.activity7 -->
+      <class name="CRM.activity8">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:CRM.activity8@a7e666]" name="beforeMethod" is-config="true" duration-ms="17301" started-at="2020-08-29T18:43:43 IST" finished-at="2020-08-29T18:44:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="act8()[pri:0, instance:CRM.activity8@a7e666]" name="act8" duration-ms="4108" started-at="2020-08-29T18:44:01 IST" finished-at="2020-08-29T18:44:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- act8 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:CRM.activity8@a7e666]" name="afterMethod" is-config="true" duration-ms="1543" started-at="2020-08-29T18:44:05 IST" finished-at="2020-08-29T18:44:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- CRM.activity8 -->
+      <class name="CRM.activity9">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:CRM.activity9@68bbe345]" name="beforeMethod" is-config="true" duration-ms="17757" started-at="2020-08-29T18:44:06 IST" finished-at="2020-08-29T18:44:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="act8()[pri:0, instance:CRM.activity9@68bbe345]" name="act8" duration-ms="4245" started-at="2020-08-29T18:44:24 IST" finished-at="2020-08-29T18:44:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- act8 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:CRM.activity9@68bbe345]" name="afterMethod" is-config="true" duration-ms="1344" started-at="2020-08-29T18:44:28 IST" finished-at="2020-08-29T18:44:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- CRM.activity9 -->
+    </test> <!-- Test_Parallel -->
+  </suite> <!-- Suite -->
+</testng-results>
